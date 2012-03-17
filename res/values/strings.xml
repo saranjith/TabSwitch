@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test</string>
+	<string name="button_text">Click Me!</string>
+	<string name="welcome_text">This is the First Tab. Click on the button below to switch to next tab.</string>
+</resources>
